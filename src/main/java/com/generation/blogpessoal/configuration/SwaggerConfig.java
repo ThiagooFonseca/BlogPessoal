@@ -24,14 +24,14 @@ public class SwaggerConfig {
 					.version("v0.0.1")
 				.license(new License()
 					.name("Generation Brasil")
-					.url("https://www.linkedin.com/in/andré-gustavo-821224238/"))
+					.url("https://www.linkedin.com/in/thiago-fonseca-5916151b8/"))
 				.contact(new Contact()
-					.name("André Gustavo")
-					.url("https://github.com/andre0101020")
-					.email("andre.dev.oliveira@gmail.com")))
+					.name("Thiago Fonseca")
+					.url("https://github.com/ThiagooFonseca")
+					.email("thiagofonsecasantanasouza@gmail.com")))
 				.externalDocs(new ExternalDocumentation()
 					.description("Github")
-					.url("https://github.com/andre0101020"));
+					.url("https://github.com/ThiagooFonseca"));
 	}
 
 	@Bean
